@@ -1,0 +1,14 @@
+{
+  "id": "testbuild-2bd441",
+  "name": "TestBuild",
+  "owner": "Gay",
+  "minecraft": "1.21.1",
+  "loader": "forge",
+  "loader_version": "52.1.2",
+  "config_version": 1,
+  "network": {
+    "name": "gl-testbuild-2bd441",
+    "host_ip": "10.77.77.1"
+  },
+  "created": 1792777483
+}
